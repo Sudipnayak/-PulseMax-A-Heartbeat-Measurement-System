@@ -20,7 +20,8 @@ Completing this project provided me with valuable experience in working with mic
 
 The heartbeat measurement system, utilizing the ESP8266 NodeMCU, MAX30102 pulse oximeter sensor, and RemoteXY webserver, demonstrates my capability to design and develop innovative solutions utilizing embedded systems and web technologies. This project showcases my problem-solving skills, technical competence, and enthusiasm for creating practical applications that contribute to healthcare and well-being.
 
-![PROJECT PIC](https://github.com/Sudipnayak/-PulseMax-A-Heartbeat-Measurement-System/assets/81667491/1da0cafe-6d25-435c-81c8-655bdff49352)
+![image](https://github.com/Sudipnayak/-PulseMax-A-Heartbeat-Measurement-System/assets/81667491/814f9ed8-c3b5-4777-8a14-66759172600c)
+
 
 OUTPUT
 
