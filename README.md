@@ -22,3 +22,13 @@ The heartbeat measurement system, utilizing the ESP8266 NodeMCU, MAX30102 pulse 
 
 ![PROJECT PIC](https://github.com/Sudipnayak/-PulseMax-A-Heartbeat-Measurement-System/assets/81667491/1da0cafe-6d25-435c-81c8-655bdff49352)
 
+OUTPUT
+
+The BPM readings will continuously update to new ones in the Arduino IDE compiler.
+
+![image](https://github.com/Sudipnayak/-PulseMax-A-Heartbeat-Measurement-System/assets/81667491/81e78dec-1a02-42a8-9b86-46bb045c23d6)
+
+I also have used RemoteXY to show the results of BPM ( Beats per minute) whose readings taken within a second and then multiplied with 60 to make it per minute and then the average BPM is found out after few BPM readings.
+
+![image](https://github.com/Sudipnayak/-PulseMax-A-Heartbeat-Measurement-System/assets/81667491/6bc5ec69-1aaa-42dd-a05b-8983d1c62e2e)
+
